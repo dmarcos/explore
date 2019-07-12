@@ -1,5 +1,6 @@
 ---
 items:
+ - aframevr/aframe
  - pixijs/pixi.js
  - photonstorm/phaser
  - melonjs/melonJS
